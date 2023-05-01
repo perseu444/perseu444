@@ -36,10 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/persheus444/persheus444/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social medias</h2>
 
 ###
