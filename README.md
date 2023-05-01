@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=persheus444.persheus444&left_color=blueviolet&right_color=antiquewhite"  />
-</div>
 
 ###
 
