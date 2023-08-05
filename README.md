@@ -15,15 +15,23 @@
 
 ###
 
-
-
-###
-
-**<h3 align="left">🚀 Sobre mim:</h3>**
+<h1 align="center">Bem-vindo(a)ヾ(•ω•`)o</h1>
 
 ###
 
-<p align="left">Ultimamente tenho:<br><br>- 🔭 Feito vídeos para o youtube.<br>- 📚 Aprendido novas linguagens.<br>- ⚡ No meu tempo livre eu administrado a Rede Maven.</p>
+<h3 align="left">👩‍💻  About mim:</h3>
+
+###
+
+<h4 align="center">💤 Ultimamente tenho:</h4>
+
+###
+
+<p align="center">- 🔭 Feito vídeos para o youtube.<br>- 📚 Aprendido novas linguagens.<br>- ⚡ No meu tempo livre, feito nada.</p>
+
+###
+
+<p align="left">__________________________________________________________________________________________</p>
 
 ###
 
@@ -31,7 +39,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -61,13 +69,21 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<p align="left">__________________________________________________________________________________________</p>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Perseu444&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<p align="left">__________________________________________________________________________________________</p>
 
 ###
 
