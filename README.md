@@ -20,8 +20,7 @@
 ###
 
 <p align="center">
-  <a href="![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa6&count=1)>
-  </a>
+  <a href="![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa6&count=1)" ></a>
 </p>
 
 ###
