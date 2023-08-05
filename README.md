@@ -1,5 +1,3 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa&unique={true|1|on|yes})
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa&count=1)
 <div align="center">
   <img height="100" src="https://media.discordapp.net/attachments/1118430652619034795/1137492608202063872/crackedcord-logo.png?width=418&height=418"  />
 </div>
@@ -24,6 +22,10 @@
 ###
 
 <h1 align="center">Salve galerinha 👌🔥</h1>
+
+###
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa&count=1)
 
 ###
 
