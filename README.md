@@ -91,10 +91,4 @@
 
 ###
 
-<p align="center">__________________________________________________________________________________________</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/Perseu444/Perseu444/output/snake.svg" alt="Snake animation" />
-
-###
