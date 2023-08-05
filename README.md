@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://media.discordapp.net/attachments/1118430652619034795/1137492608202063872/crackedcord-logo.png?width=418&height=418"  />
+  <img height="100" src="https://media.discordapp.net/attachments/1118430652619034795/1118430732025593878/crackedcord.png"  />
 </div>
 
 ###
@@ -15,19 +15,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Perseu444.Perseu444&"  />
-</div>
-
-###
-
 <h1 align="center">Salve galerinha 👌🔥</h1>
 
 ###
 
 <p align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa" alt="Spotify Recently Played">
+  <a href="![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa6&count=1)>
   </a>
 </p>
 
@@ -37,15 +30,15 @@
 
 ###
 
-<p align="left">Ultimamente tenho:<br><br>- 🔭 Feito vídeos para o youtube.<br>- 📚 Aprendido novas linguagens.<br>- ⚡ No meu tempo livre eu administrado a Rede Maven.</p>
+<p align="center">Ultimamente tenho:<br><br>- 🔭 Feito vídeos para o youtube.<br>- 📚 Aprendido novas linguagens.<br>- ⚡ No meu tempo livre eu administrado a Rede Maven.</p>
 
 ###
 
-<h3 align="left">🛠 Eu gosto e estou aprendendo:</h3>
+<h3 align="center">🛠 Eu gosto e estou aprendendo:</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -69,7 +62,13 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Perseu444.Perseu444&"  />
+</div>
+
+###
+
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
