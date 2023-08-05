@@ -20,8 +20,11 @@
 ###
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa6&count=1" alt="Spotify Recently Played">
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa" alt="Spotify Recently Played">
+  </a>
 </p>
+
 
 ###
 
