@@ -19,7 +19,7 @@
 
 ###
 
-**<h3 align="center">🚀 Sobre mim:</h3>**
+**<h3 align="left">🚀 Sobre mim:</h3>**
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="center">🛠 Eu gosto e estou aprendendo:</h3>
+<h3 align="left">🛠 Eu gosto e estou aprendendo:</h3>
 
 ###
 
