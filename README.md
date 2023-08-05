@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">Ultimamente tenho:<br><br>- 🔭 Feito vídeos para o youtube.<br>- 📚 Aprendido novas linguagens.<br>- ⚡ No meu tempo livre eu administrado a Rede Maven.</p>
+<p align="left">Ultimamente tenho:<br><br>- 🔭 Feito vídeos para o youtube.<br>- 📚 Aprendido novas linguagens.<br>- ⚡ No meu tempo livre eu administrado a Rede Maven.</p>
 
 ###
 
