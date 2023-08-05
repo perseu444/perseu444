@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Perseu444.Perseu444&"  />
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Perseu444.Perseu444&"  />
 </div>
 
 ###
