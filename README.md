@@ -23,6 +23,10 @@
 
 ###
 
+<p align="center">   <a href="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)">     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)" alt="Spotify Recently Played">   </a> </p> 
+
+### 
+
 <h4 align="center">💤 Ultimamente tenho:</h4>
 
 ###
