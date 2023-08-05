@@ -25,7 +25,7 @@
 
 <p align="center">   
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)">     
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)" alt="As melhores para escutar no banheiro:">      
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)" alt="Spotify hihi:">      
   </a>
 </p> 
 
