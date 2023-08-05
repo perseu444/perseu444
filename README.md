@@ -23,7 +23,6 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa6&count=1" alt="Spotify Recently Played">
 </p>
 
-
 ###
 
 <h3 align="center">👩‍💻  About Me</h3>
