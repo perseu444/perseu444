@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Perseu444.Perseu444&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Perseu444.Perseu444&"  />
 </div>
 
 ###
@@ -25,7 +25,9 @@
 
 ###
 
+<div align="center">
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31dobdnrbmgsd4p7noxn2z7nxvsa&count=1)
+</div>
 
 ###
 
